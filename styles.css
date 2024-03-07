@@ -9,16 +9,16 @@ h2{
 h1{
   font-size:100px;
 }
-img{
-  float:left;
-}
+
 .av{
   margin:100px;
   border:40px solid silver;
+  float:left;
 }
 .ax{
   margin:100px;
   border:40px solid silver;
+  float:right;
 }
 footer{
   clear:left;
