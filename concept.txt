@@ -1,0 +1,14 @@
+Float concept
+
+HTML
+<img.../>
+<p>text</p>
+
+
+CSS
+img{
+ float:left;              ---> Helps to write text content from left to see. Example
+clear:left;                 --->helps to write footer at the bootom of image
+}
+
+note:- Float left and right property is possible.

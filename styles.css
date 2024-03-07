@@ -1,0 +1,25 @@
+body{
+  background-color:Aqua;
+}
+h2{
+  font-style: italic;
+  font-size:50px;
+  color:orange;
+}
+h1{
+  font-size:100px;
+}
+img{
+  float:left;
+}
+.av{
+  margin:100px;
+  border:40px solid silver;
+}
+footer{
+  clear:left;
+  font-size:90px;
+  color:orangered;
+}
+
+
